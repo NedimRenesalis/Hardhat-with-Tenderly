@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NedimRenesalis/Hardhat-with-Tenderly/issues"
   },
-  "homepage": "https://github.com/NedimRenesalis/Hardhat-with-Tenderly#readme"
+  "homepage": "https://github.com/NedimRenesalis/Hardhat-with-Tenderly#readme",
+  "devDependencies": {
+    "hardhat": "^2.3.3"
+  }
 }
